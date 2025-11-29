@@ -1,29 +1,18 @@
 # My Landing Page
 
-A **responsive landing page** built using **HTML, CSS, and Vanilla JavaScript**, based on a Figma design.  
-The page is fully responsive on mobile, tablet, and desktop devices and includes interactive features like a mobile menu toggle.
+A fully responsive landing page built using **HTML, CSS, and Vanilla JavaScript** based on a Figma design.
 
-## 🚀 Live Demo
+## 🔗 Live Demo
 
-Check the live website here: [https://bhavananagasri.github.io/my-landing-page/](https://bhavananagasri.github.io/my-landing-page/)
+[Click here to view live site](https://bhavananagasri.github.io/my-landing-page/)
 
-## 🛠 Technologies Used
+## 📂 Code Repository
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+[Click here to view live site](https://github.com/Bhavananagasri/my-landing-page)
 
-## 📂 Project Structure
+## 🚀 Features
 
-my-landing-page/ ├── index.html ├── css/ │   └── style.css ├── js/ │   └── script.js ├── images/ │   └── all project images └── README.md
-
-## 📌 Features
-
-- Fully responsive layout (mobile, tablet, desktop)
-- Mobile hamburger menu
-- Home, Features, About, Testimonials, FAQ, Footer sections
-- Clean, semantic HTML and organized CSS/JS
-
-## ✅ Author
-
-Bhavana Naga Sri
+- Responsive design for mobile, tablet, and desktop
+- Mobile-friendly navigation menu
+- Smooth scrolling
+- Clean HTML, CSS, and JS implementation

@@ -8,7 +8,7 @@ A fully responsive landing page built using **HTML, CSS, and Vanilla JavaScript*
 
 ## 📂 Code Repository
 
-[Click here to view live site](https://github.com/Bhavananagasri/my-landing-page)
+[View GitHub Repository](https://github.com/Bhavananagasri/my-landing-page)
 
 ## 🚀 Features
 

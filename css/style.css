@@ -57,23 +57,23 @@ body {
     cursor: pointer;
 }
 
-/* HERO */
-.hero {
+/* HOME */
+.home {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 60px 40px;
 }
 
-.hero-text {
+.home-text {
     max-width: 50%;
 }
 
-.hero-text h1 {
+.home-text h1 {
     font-size: 48px;
 }
 
-.hero-text p {
+.home-text p {
     margin-top: 10px;
     font-size: 18px;
     color: #555;
@@ -90,7 +90,7 @@ body {
     border-radius: 5px;
 }
 
-.hero-img img {
+.home-img img {
     width: 450px;
     border-radius: 10px;
 }
@@ -181,12 +181,12 @@ body {
         display: block;
     }
 
-    .hero {
+    .home {
         flex-direction: column;
         text-align: center;
     }
 
-    .hero-img img {
+    .home-img img {
         width: 300px;
         margin-top: 20px;
     }
